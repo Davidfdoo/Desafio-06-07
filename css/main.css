@@ -1,0 +1,57 @@
+/*---------------------------------------------------------------index.html--------------------------------------------------------------------*/
+/*-------HEADER----------*/
+.bg-colorHeader{
+    background-color: rgb(77, 133, 206);
+}
+
+.Logo{
+    width: 7rem;
+    height: 7rem;
+}
+
+header nav li{
+    margin: 1rem;
+    padding: 5px 3.5px;
+    border: 1px solid #ffffffba;
+    border-radius: .25rem;
+    color: #ffffff;
+    transition: color .15s ease-in-out,
+    background-color .15s ease-in-out;
+}
+
+header nav li:hover, header nav li:active, header nav li:focus {
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
+
+/*--------MAIN--------------*/
+
+.bg-colorMain{
+    background-color: rgb(212, 255, 255);
+    padding: 20px;
+}
+
+
+/*----------pie de pagina footer----------  */
+
+.bg-colorFooter{
+    background-color:rgb(76, 85, 137);
+}
+
+/*------------------------------------------------------------Nosotros-------------------------------------------------------------------*/
+
+
+
+/* -----------------------------------------------------------productos------------------------------------------------------------------*/
+
+
+
+/*-------------------------------------------------------Galeria-------------------------------------------------------------------------*/
+
+
+
+
+
+ 
+
